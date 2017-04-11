@@ -5,7 +5,9 @@ Learning Resources
 * Javascript
 
   * Learn through self-paced coding challenges, build projects : https://www.freecodecamp.com/
-  * https://nodeschool.io/
+  * Tutorials with exercises using nodeJS: https://nodeschool.io/
+  * The world of JavaScript in a website: https://github.com/sorrycc/awesome-javascript
+  
   
 * Scala
 
@@ -19,8 +21,13 @@ Learning Resources
   * Cracking the coding interview at hackerrank: https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
   * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
 
+* Bash
 
+  * Online book about bash language: https://github.com/denysdovhan/bash-handbook
 
+* Commands and Shortcuts
+
+  * Site to help you practice git and specific text editor commands in a gamified way: https://www.shortcutfoo.com/
 
 
 Project Ideas 
