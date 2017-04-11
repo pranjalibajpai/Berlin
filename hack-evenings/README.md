@@ -37,12 +37,12 @@ Project Ideas
   * (frontend) Beginner/Intermediate/Advanced Front End Development Projects: https://www.freecodecamp.com/map
   
 * Get involved with open source
+  * best repos for beginners to contribute to for different languages: https://github.com/MunGell/awesome-for-beginners
   * starting points for open source beginners: https://opensource.com/life/16/1/6-beginner-open-source
   * list of projects which have curated tasks specifically for new contributors: http://up-for-grabs.net/#/
   
 * Automate anything :)   
   * Some ideas (python): https://automatetheboringstuff.com/
-
 
 
 
