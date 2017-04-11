@@ -7,6 +7,7 @@ Learning Resources
   * Learn through self-paced coding challenges, build projects : https://www.freecodecamp.com/
   * Tutorials with exercises using nodeJS: https://nodeschool.io/
   * The world of JavaScript in a website: https://github.com/sorrycc/awesome-javascript
+  * More advanced reading about JS: https://github.com/getify/You-Dont-Know-JS
   
   
 * Scala
