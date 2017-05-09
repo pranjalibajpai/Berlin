@@ -2,6 +2,7 @@
 Learning Resources 
 =========================
 
+
 * Javascript
 
   * Learn through self-paced coding challenges, build projects : https://www.freecodecamp.com/
@@ -34,9 +35,11 @@ Learning Resources
   * Cracking the coding interview at hackerrank: https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
   * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
 
+
 * Bash
 
   * Online book about bash language: https://github.com/denysdovhan/bash-handbook
+
 
 * Commands and Shortcuts
 
@@ -45,6 +48,7 @@ Learning Resources
 
 Project Ideas 
 =========================
+
 
 * Small projects for learning purposes
   * (frontend) Beginner/Intermediate/Advanced Front End Development Projects: https://www.freecodecamp.com/map
@@ -58,14 +62,12 @@ Project Ideas
   * Some ideas (python): https://automatetheboringstuff.com/
 
 
-
 Data Sources
 =========================
+
 
 * Mocking (data generators) - allows data mocking in several sizes and formats: 
   * http://www.generatedata.com/
   
 * Large publicly available data sources:
   * https://www.springboard.com/blog/free-public-data-sets-data-science-project/
-  
-  
