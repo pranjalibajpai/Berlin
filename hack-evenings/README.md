@@ -14,7 +14,19 @@ Learning Resources
 
   * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
   * Small exercises https://www.scala-exercises.org/
+
+
+* Python
+
+  * Collection of learning materials: http://tiny.cc/ots-py-materials
+
   
+* Go
+
+  * Introductory book: http://www.golang-book.com/books/intro
+  * Online tutorial: https://tour.golang.org
+
+
 * Algoritms & Interview Preparation
 
   * Constant challenges in several languages: https://www.codingame.com/start
