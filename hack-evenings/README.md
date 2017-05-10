@@ -2,6 +2,7 @@
 Learning Resources 
 =========================
 
+
 * Javascript
 
   * Learn through self-paced coding challenges, build projects : https://www.freecodecamp.com/
@@ -14,7 +15,19 @@ Learning Resources
 
   * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
   * Small exercises https://www.scala-exercises.org/
+
+
+* Python
+
+  * Collection of learning materials: http://tiny.cc/ots-py-materials
+
   
+* Go
+
+  * Introductory book: http://www.golang-book.com/books/intro
+  * Online tutorial: https://tour.golang.org
+
+
 * Algoritms & Interview Preparation
 
   * Constant challenges in several languages: https://www.codingame.com/start
@@ -22,9 +35,11 @@ Learning Resources
   * Cracking the coding interview at hackerrank: https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
   * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
 
+
 * Bash
 
   * Online book about bash language: https://github.com/denysdovhan/bash-handbook
+
 
 * Commands and Shortcuts
 
@@ -33,6 +48,7 @@ Learning Resources
 
 Project Ideas 
 =========================
+
 
 * Small projects for learning purposes
   * (frontend) Beginner/Intermediate/Advanced Front End Development Projects: https://www.freecodecamp.com/map
@@ -46,14 +62,12 @@ Project Ideas
   * Some ideas (python): https://automatetheboringstuff.com/
 
 
-
 Data Sources
 =========================
+
 
 * Mocking (data generators) - allows data mocking in several sizes and formats: 
   * http://www.generatedata.com/
   
 * Large publicly available data sources:
   * https://www.springboard.com/blog/free-public-data-sets-data-science-project/
-  
-  
