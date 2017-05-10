@@ -45,6 +45,10 @@ Learning Resources
 
   * Site to help you practice git and specific text editor commands in a gamified way: https://www.shortcutfoo.com/
 
+* Machine Learning
+
+  * Andrew Ng's introduction to Machine Learning: https://www.coursera.org/learn/machine-learning
+  * Neural Network Playground (JavaScript developers will like this!): http://playground.tensorflow.org/
 
 Project Ideas 
 =========================
