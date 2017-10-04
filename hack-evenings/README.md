@@ -15,6 +15,10 @@ Learning Resources
 
   * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
   * Small exercises https://www.scala-exercises.org/
+  
+* Java
+
+  * Fun and effective book to learn Java with little prerequisites. A bit outdated, but still good for learning a good foundation: http://shop.oreilly.com/product/9780596009205.do
 
 
 * Python
