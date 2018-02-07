@@ -2,7 +2,7 @@
 Learning Resources 
 =========================
 
-### Algoritms & Interview Preparation
+### Algorithms & Interview Preparation
 
   * Constant challenges in several languages: https://www.codingame.com/start
   * Exercism: and yet more coding challenges in several language: http://www.exercism.io/
