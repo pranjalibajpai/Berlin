@@ -2,27 +2,34 @@
 Learning Resources 
 =========================
 
-* Javascript
-
-  * Learn through self-paced coding challenges, build projects : https://www.freecodecamp.com/
-  * Tutorials with exercises using nodeJS: https://nodeschool.io/
-  * The world of JavaScript in a website: https://github.com/sorrycc/awesome-javascript
-  * More advanced reading about JS: https://github.com/getify/You-Dont-Know-JS
-  
-  
-* Scala
-
-  * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
-  * Small exercises https://www.scala-exercises.org/
-  
-* Algoritms & Interview Preparation
+### Algoritms & Interview Preparation
 
   * Constant challenges in several languages: https://www.codingame.com/start
   * Exercism: and yet more coding challenges in several language: http://www.exercism.io/
   * Cracking the coding interview at hackerrank: https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
   * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
+  
+### Javascript
 
-* Bash
+An easy leanguage to start coding, since it runs right your browser. You can create from websites to robust applications (both client and server-side).
+
+  * Learn by coding: http://codecademy.com/ 
+  * Learn through self-paced coding challenges, build projects: https://www.freecodecamp.com/
+  * Tutorials with exercises using NodeJS: https://nodeschool.io/ (Command-line required)
+  * The world of JavaScript in a website: https://github.com/sorrycc/awesome-javascript
+  * JavaScript Language in-depth: https://github.com/getify/You-Dont-Know-JS
+  
+### Python
+  * Learn by coding: https://www.codecademy.com/learn/learn-python (practical and straightforward)
+  * Tutorial, exercises and other resources: https://www.learnpython.org/ 
+  * Introduction to Computer Science and Programming Using Python, from MIT: https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 (Algorithm thinking, computer science topics, takes more time but it gives you nice fundamentals)
+ 
+### Scala
+
+  * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
+  * Small exercises https://www.scala-exercises.org/
+
+### Bash
 
   * Online book about bash language: https://github.com/denysdovhan/bash-handbook
 
