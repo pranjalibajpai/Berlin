@@ -64,3 +64,7 @@ Data Sources
 
 * Large publicly available data sources:
   * https://www.springboard.com/blog/free-public-data-sets-data-science-project/
+  
+* Big collection of Deep Learning datasets for vision, NLP, audio, recommendation & more: 
+  * https://skymind.ai/wiki/open-datasets
+  
