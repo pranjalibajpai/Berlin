@@ -22,6 +22,7 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
   * JavaScript 30, 30 challenges using vanilla JS with HTML and CSS: https://javascript30.com
 
 ### Python
+  * Programming for Everybody: https://www.coursera.org/learn/python (easily digestible intro for people who are new to coding)
   * Learn by coding: https://www.codecademy.com/learn/learn-python (practical and straightforward)
   * Tutorial, exercises and other resources: https://www.learnpython.org/
   * Introduction to Computer Science and Programming Using Python, from MIT: https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 (Algorithm thinking, computer science topics, takes more time but it gives you nice fundamentals)
