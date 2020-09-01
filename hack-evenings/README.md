@@ -6,7 +6,7 @@ Learning Resources
 
   * Constant challenges in several languages: https://www.codingame.com/start
   * Exercism: and yet more coding challenges in several language: http://www.exercism.io/
-  * Cracking the coding interview at hackerrank: https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
+  * Cracking the coding interview at hackerrank: https://www.hackerrank.com/interview/interview-preparation-kit
   * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
   * Solo Learn, mobile app to learn on-the-go: https://www.sololearn.com
 
