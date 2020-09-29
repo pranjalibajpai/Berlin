@@ -38,7 +38,7 @@ So how do your changes get into this repository?
 ##### Create a Pull Request
 
 You basically "propose" your changes to us, the owners of the original repository by creating a **pull request** (often abbreviated as "PR").
-In your forked repositiory, select the "Pull Requests" tab, then click the button "New Pull Request" (green button in the top right).
+In your forked repository, select the "Pull Requests" tab, then click the button "New Pull Request" (green button in the top right).
 You will see a new view where you can select the repositories and branches. 
 By default it should show you WomenWhoCode/Berlin as the base repositiory and your fork (<YourUsername>/Berlin) as the "head repository".
 The branch for the base should be master and for your repo it is the branch where you made the changes (if you did not create a branch, it will be master).
@@ -48,13 +48,13 @@ Ideally you also add at least a little bit of detail to the description of the P
 When you are done, submit the pull request by clicking the green "Create Pull Request" button.
 
 We will get a notification about the new pull requests and can have a look at the changes you proposed.
-We can then **merge** the changes from your PR to the original repositiory. 
+We can then **merge** the changes from your PR to the original repository. 
 This means they will become part of the original repositiory and you will officially be a contributor.
-Congratulations, you have shared your knowledge & tipps with our community and potentially the whole world!
+Congratulations, you have shared your knowledge & tips with our community and potentially the whole world!
 
-### Tipps
+### Tips
 
-To make sure everything goes smoothly, here are a few more tipps:
+To make sure everything goes smoothly, here are a few more tips:
 - If you create the Pull requests, try to make sure that your fork is up to date with the master branch of this repo. 
 - If you intend to work on a task where we have an open issue, make a comment on the issue to let everyone know what you are doing.
 - If you need personal support or have any questions, join our slack channel [WWCode-hacknights](http://bit.ly/WWCHackEveningsSlack) (What is [Slack](https://slack.com/resources/slack-101/what-is-slack)?)
@@ -63,7 +63,7 @@ To make sure everything goes smoothly, here are a few more tipps:
 
 We are happy about any contributions: Tutorials, Guides, (free) books, video courses, online exercises, ...
 Look at the categories and see if it fits any of the existing categories and/or sub-categories. 
-If you think the appropriate categorie is missing, add it.
+If you think the appropriate category is missing, add it.
 
 If you are not sure where your resource belongs, you can also [create an issue](https://github.com/WomenWhoCode/Berlin/issues/new) to ask about it. Or ask in the our [slack channel](http://bit.ly/WWCHackEveningsSlack).
 
