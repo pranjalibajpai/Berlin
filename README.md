@@ -1,6 +1,6 @@
 # Women Who Code Berlin
 
-This Repo contains a collection of ressources collected for and during the Hack Evenings event series.
+This Repo contains a collection of resources collected for and during the Hack Evenings event series.
 It is supposed to help anyone looking to learn and improve their coding skills to find tutorial, resources and inspiration.
 
 ## Contributing
@@ -30,14 +30,14 @@ Click the button labelled "Fork" in the top right corner.
 You might see a popup that asks you where to create the fork if you are part of any organization - select your personal account.
 
 This means you will create your own copy of the repository where you are allowed to freely add and edit anything.
-This repositiory is owned by Women Who Code and only members of the organization can make changes.
+This repository is owned by Women Who Code and only members of the organization can make changes.
 
 If all contributions were only spread across different forks, it would not be very useful.
 So how do your changes get into this repository?
 
 ##### Create a Pull Request
 
-You basically "propose" your changes to us, the owners of the original repositiory by creating a **pull request** (often abbreviated as "PR").
+You basically "propose" your changes to us, the owners of the original repository by creating a **pull request** (often abbreviated as "PR").
 In your forked repositiory, select the "Pull Requests" tab, then click the button "New Pull Request" (green button in the top right).
 You will see a new view where you can select the repositories and branches. 
 By default it should show you WomenWhoCode/Berlin as the base repositiory and your fork (<YourUsername>/Berlin) as the "head repository".
