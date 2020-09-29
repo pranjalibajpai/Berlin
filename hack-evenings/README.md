@@ -1,14 +1,13 @@
-
 Learning Resources
 =========================
 
-### Algorithms & Interview Preparation
+## General
 
-  * Constant challenges in several languages: https://www.codingame.com/start
-  * Exercism: and yet more coding challenges in several language: http://www.exercism.io/
-  * Cracking the coding interview at hackerrank: https://www.hackerrank.com/interview/interview-preparation-kit
-  * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
-  * Solo Learn, mobile app to learn on-the-go: https://www.sololearn.com
+### Git & Console
+
+  * Site to help you practice git and specific text editor commands in a gamified way: https://www.shortcutfoo.com/
+
+## Programming Languages
 
 ### Javascript
 
@@ -31,19 +30,30 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
 
   * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
   * Small exercises https://www.scala-exercises.org/
-
+  
 ### Bash
 
   * Online book about bash language: https://github.com/denysdovhan/bash-handbook
   * Games for learning security concepts: http://overthewire.org/wargames/
 
-* Commands and Shortcuts
+## Frameworks & Libraries
 
-  * Site to help you practice git and specific text editor commands in a gamified way: https://www.shortcutfoo.com/
+## Career
+
+### Algorithms & Interview Preparation
+
+  * Constant challenges in several languages: https://www.codingame.com/start
+  * Exercism: and yet more coding challenges in several language: http://www.exercism.io/
+  * Cracking the coding interview at hackerrank: https://www.hackerrank.com/interview/interview-preparation-kit
+  * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
+  * Solo Learn, mobile app to learn on-the-go: https://www.sololearn.com
 
 
-Project Ideas
+
+Projects
 =========================
+
+## Finding Project Ideas
 
 * Small projects for learning purposes
   * (frontend) Beginner/Intermediate/Advanced Front End Development Projects: https://www.freecodecamp.com/map
@@ -58,8 +68,7 @@ Project Ideas
 
 
 
-Data Sources
-=========================
+## Data Sources
 
 * Mocking (data generators) - allows data mocking in several sizes and formats:
   * http://www.generatedata.com/
