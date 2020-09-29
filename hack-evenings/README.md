@@ -79,4 +79,3 @@ Projects
 * Big collection of Deep Learning datasets for vision, NLP, audio, recommendation & more: 
   * https://skymind.ai/wiki/open-datasets
   
-
