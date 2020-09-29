@@ -1,9 +1,9 @@
 # Women Who Code Berlin
 
-This Repo contains a collection of resources collected for and during the Hack Evenings event series.
-It is supposed to help anyone looking to learn and improve their coding skills to find tutorial, resources and inspiration.
+This repository (repo) contains a collection of resources collected for and during the Hack Evening event series.
+It is supposed to help anyone looking to learn and improve their coding skills to find tutorials, resources, and inspiration.
 
-## Contributing
+## How can I contribute?
 
 We love contributions! 
 We would like to extend this collection to contain resources of all kind related to all programming languages, frameworks, general programming knowledge and IT careers.
