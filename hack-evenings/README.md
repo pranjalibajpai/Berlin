@@ -6,8 +6,15 @@ Learning Resources
 ### Git & Console
 
   * Site to help you practice git and specific text editor commands in a gamified way: https://www.shortcutfoo.com/
+  * Git guides for beginners to advanced: https://www.atlassian.com/git/tutorials
 
 ## Programming Languages
+
+### CSS
+
+  * Tutorials for beginners (with online editor): https://www.w3schools.com/css/
+  * Learn how to use flexbox for layouts by playing: https://flexboxfroggy.com/ 
+  * MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ### Javascript
 
